@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RPS_PlayerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-02-28T20:14:41" hostname="Hafsahs-MacBook-Air.local" time="0.025">
+  <properties/>
+  <testcase name="[1] test getNumberOfGamesWon" classname="RPS_PlayerTest" time="0.013"/>
+  <testcase name="[1] test getName" classname="RPS_PlayerTest" time="0.001"/>
+  <testcase name="[1] test getWinPercentage" classname="RPS_PlayerTest" time="0.0"/>
+  <testcase name="[3] test clear" classname="RPS_PlayerTest" time="0.001"/>
+  <testcase name="[1] test getNumberOfGamesPlayed" classname="RPS_PlayerTest" time="0.0"/>
+  <testcase name="[6] test challenge" classname="RPS_PlayerTest" time="0.001"/>
+  <testcase name="[6] test keepAndChallenge" classname="RPS_PlayerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
